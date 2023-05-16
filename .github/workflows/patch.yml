@@ -5,7 +5,7 @@ on:
 
 jobs:
   patch:
-    runs-on: macos-latest
+    runs-on: macos-m1
 
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
